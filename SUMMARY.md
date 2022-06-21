@@ -6,8 +6,8 @@
 
 * [Ecosystem Tokens](group-1/ecosystem-tokens/README.md)
   * [Main LP - BSC Token - $CCT](group-1/ecosystem-tokens/main-lp-bsc-token-usdcct/README.md)
-    * [Transaction Tokenomics](group-1/ecosystem-tokens/main-lp-bsc-token-usdcct/transaction-tokenomics.md)
-    * [Initial Supply Allocations](group-1/ecosystem-tokens/main-lp-bsc-token-usdcct/initial-supply-allocations.md)
+    * [$CCT - Transaction Tokenomics](group-1/ecosystem-tokens/main-lp-bsc-token-usdcct/usdcct-transaction-tokenomics.md)
+    * [$CCT - Initial Supply Allocations](group-1/ecosystem-tokens/main-lp-bsc-token-usdcct/usdcct-initial-supply-allocations.md)
   * [Governance Token - BSC Token - $CCGT](group-1/ecosystem-tokens/governance-token-bsc-token-usdccgt.md)
   * [Governance SOL Token - $SCCG](group-1/ecosystem-tokens/governance-sol-token-usdsccg.md)
 * [Ecosystem NFT's](group-1/ecosystem-nfts/README.md)
