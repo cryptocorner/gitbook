@@ -36,3 +36,7 @@
 * [Voting and Governance](group-1/voting-and-governance/README.md)
   * [Binance Smart Chain Asset Governance](group-1/voting-and-governance/binance-smart-chain-asset-governance.md)
   * [Solana Asset Governance](group-1/voting-and-governance/solana-asset-governance.md)
+* [Content Guidelines](group-1/content-guidelines/README.md)
+  * [Tool Box Links](group-1/content-guidelines/tool-box-links.md)
+  * [Articles and Content for Publishing View](group-1/content-guidelines/articles-and-content-for-publishing-view.md)
+  * [EDU Marketplace Education Modules and Quizzes](group-1/content-guidelines/edu-marketplace-education-modules-and-quizzes.md)
