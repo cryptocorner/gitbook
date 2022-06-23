@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overall Architecture](README.md)
+* [Roadmap](roadmap.md)
 
 ## Group 1
 
@@ -30,11 +31,15 @@
   * [Tool Box Links](group-1/content-guidelines/tool-box-links.md)
   * [Articles and Content for Publishing View](group-1/content-guidelines/articles-and-content-for-publishing-view.md)
   * [EDU Marketplace Education Modules and Quizzes](group-1/content-guidelines/edu-marketplace-education-modules-and-quizzes.md)
+* [Content Voting Guidelines](group-1/content-voting-guidelines/README.md)
+  * [Links](group-1/content-voting-guidelines/links.md)
+  * [Publishing View Content](group-1/content-voting-guidelines/publishing-view-content.md)
+  * [EDU Marketplace](group-1/content-voting-guidelines/edu-marketplace.md)
 * [Content for Token - Payment Tiers](group-1/payment-tiers/README.md)
   * [Submitting Links For Tool Box](group-1/payment-tiers/submitting-links-for-tool-box.md)
   * [Submitting Articles and Content for Private Publishing View](group-1/payment-tiers/submitting-articles-and-content-for-private-publishing-view.md)
   * [Submit Education Modules and Quizzes for EDU Marketplace](group-1/payment-tiers/submit-education-modules-and-quizzes-for-edu-marketplace.md)
-  * [Payment Multipliers](group-1/content-for-token-payment-tiers/payment-multipliers.md)
+  * [Payment Multipliers](group-1/content-for-token/payment-multipliers.md)
 * [Staking](group-1/staking/README.md)
   * [Stake $CCT](group-1/staking/stake-usdcct.md)
   * [Stake Project NFT's](group-1/staking/stake-project-nfts.md)

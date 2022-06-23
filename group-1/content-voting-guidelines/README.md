@@ -1,0 +1,2 @@
+# Content Voting Guidelines
+
