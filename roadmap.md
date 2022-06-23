@@ -40,7 +40,7 @@ Phase 3
 * [ ] Introduce User Token Tipping through the Publishing View
 * [ ] Release Public EDU Marketplace for Holders
 * [ ] Introduce BNB NFT's for Users of the EDU Marketplace as Experience Achievement Tokens
-* [ ] Introduce BNB NFT's for Creators of the EDU Marketplace as Experience&#x20;
+* [ ] Introduce BNB NFT's for Creators of the EDU Marketplace as Creator Achievement Tokens&#x20;
 * [ ] Allow Creators to sell custom 1 of 1 NFT's on EDU Marketplace
 * [ ] Activate Payment Multipliers on Content for Token
 
