@@ -11,10 +11,12 @@ Phase 1
 * [ ] Release Public Toolbox
 * [ ] Release Publishing View
 * [ ] Set up discord, twitter, facebook, reddit and github
+* [ ] Create Private Discord Channel For All Holders of Any Project Asset (Tokens and NFT's)
 * [ ] Create Discord Content Voting Channels
   * [ ] Links
   * [ ] Publishing View
   * [ ] EDU Marketplace
+* [ ] Create Discord Content for Token Payment Notification Channel
 * [ ] Create Content Voting Guidelines
 * [ ] Create BNB Governance Token $CCGT on Binance Smart Chain
 * [ ] Discord BNB $CCT Governance Voting Channel
@@ -22,10 +24,16 @@ Phase 1
   * [ ] Links&#x20;
   * [ ] Publishing Content
   * [ ] EDU Modules and Quizzes
-* [ ] Build a Content Management System for all content
+* [ ] Build a Content Management System for all content intake and process workflow improvements for posting to Publishing View
 
 Phase 2
 
+* [ ] Team Buildout
+  * [ ] Community Moderators
+  * [ ] Social Media Managers
+  * [ ] Developers
+  * [ ] Add More Vendor Connections
+  * [ ] Attract More Content Developers
 * [ ] Create SOL Governance Token $SCCG
 * [ ] Staking Set up for SOL Project NFT's for $SCCG
 * [ ] Discord SOL Governance Voting Channel
@@ -37,12 +45,12 @@ Phase 2
 
 Phase 3
 
-* [ ] Introduce User Token Tipping through the Publishing View
+* [ ] Introduce User Token Tipping through the Publishing View (Content Incentive Structure)
 * [ ] Release Public EDU Marketplace for Holders
 * [ ] Introduce BNB NFT's for Users of the EDU Marketplace as Experience Achievement Tokens
 * [ ] Introduce BNB NFT's for Creators of the EDU Marketplace as Creator Achievement Tokens&#x20;
 * [ ] Allow Creators to sell custom 1 of 1 NFT's on EDU Marketplace
-* [ ] Activate Payment Multipliers on Content for Token
+* [ ] Activate Payment Multipliers on Content for Token (Content and Asset Incentive Structure)
 
 Phase 4
 
@@ -51,6 +59,7 @@ Phase 4
 * [ ] Google Bookmarks Download using Public Toolbox already organized
 * [ ] Develop Asset Holder Profile Pages showing Experiences on EDU Marketplace&#x20;
 * [ ] Add other chain assets launches
+* [ ] Develop an automated community voting/payment system for content for token&#x20;
 
 More + More + More + follow us to stay updated
 
