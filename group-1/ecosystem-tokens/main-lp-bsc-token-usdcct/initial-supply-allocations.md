@@ -1,2 +1,2 @@
-# $CCT - Initial Supply Allocations
+# Initial Supply Allocations
 

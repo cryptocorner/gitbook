@@ -24,8 +24,6 @@ Phase 1
   * [ ] EDU Modules and Quizzes
 * [ ] Build a Content Management System for all content
 
-
-
 Phase 2
 
 * [ ] Create SOL Governance Token $SCCG
@@ -43,7 +41,7 @@ Phase 3
 * [ ] Release Public EDU Marketplace for Holders
 * [ ] Introduce BNB NFT's for Users of the EDU Marketplace as Experience Achievement Tokens
 * [ ] Introduce BNB NFT's for Creators of the EDU Marketplace as Experience&#x20;
-* [ ] Sell Creator made custom 1 of 1 NFT's
+* [ ] Allow Creators to sell custom 1 of 1 NFT's on EDU Marketplace
 * [ ] Activate Payment Multipliers on Content for Token
 
 Phase 4
@@ -51,5 +49,8 @@ Phase 4
 * [ ] IRL Education Events&#x20;
 * [ ] Tool User Interface Updates and Re-Organization
 * [ ] Google Bookmarks Download using Public Toolbox already organized
-*
+* [ ] Develop Asset Holder Profile Pages showing Experiences on EDU Marketplace&#x20;
+* [ ] Add other chain assets launches
+
+More + More + More + follow us to stay updated
 

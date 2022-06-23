@@ -1,2 +1,2 @@
-# Content for Token - Payment Tiers
+# Payment Tiers
 

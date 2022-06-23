@@ -1,2 +1,2 @@
-# $CCT - Transaction Tokenomics
+# Transaction Tokenomics
 
