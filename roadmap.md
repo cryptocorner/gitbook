@@ -57,8 +57,9 @@ Phase 4
 * [ ] IRL Education Events&#x20;
 * [ ] Tool User Interface Updates and Re-Organization
 * [ ] Google Bookmarks Download using Public Toolbox already organized
-* [ ] Develop Asset Holder Profile Pages showing Experiences on EDU Marketplace&#x20;
-* [ ] Add other chain assets launches
+* [ ] Develop Profile Pages showing Experience Achievement NFT's through EDU Marketplace along with Project NFT's For Content Providers and All Holders
+* [ ] Develop Ranking System and Better Search UI for Publishing View and Content Providers&#x20;
+* [ ] Add other chain NFT launches including ETH, NEAR + and more.
 * [ ] Develop an automated community voting/payment system for content for token&#x20;
 
 More + More + More + follow us to stay updated
