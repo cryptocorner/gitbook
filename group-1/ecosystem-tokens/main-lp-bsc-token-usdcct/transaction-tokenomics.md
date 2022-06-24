@@ -18,6 +18,18 @@ $CCT implements automatic Liquidity Pool with Pancakeswap.finance, which acts as
 
 $CCT employs 3 transactional functions:
 
-Reflection + Automatic LP + Marketing, Dev & Community Content Fund
+2% Reflection = Passive Income For HODLING
+
+![](../../../.gitbook/assets/Picture12.png)
+
+2% Marketing + Dev + Community Content Fund Replenish
+
+![](../../../.gitbook/assets/Picture13.png)
+
+2% Automatic Liquidity Pool Added
+
+![](../../../.gitbook/assets/Picture14.png)
+
+Upon trading, set 6% “Slippage” set in the gear icon on pancakeswap trade view.
 
 ![](../../../.gitbook/assets/Picture1.png)
