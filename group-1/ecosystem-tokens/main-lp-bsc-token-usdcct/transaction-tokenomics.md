@@ -20,4 +20,4 @@ $CCT employs 3 transactional functions:
 
 Reflection + Automatic LP + Marketing, Dev & Community Content Fund
 
-{% file src="../../../.gitbook/assets/Transaction Breakdown.png" %}
+![](<../../../.gitbook/assets/Transaction Breakdown.png>)
