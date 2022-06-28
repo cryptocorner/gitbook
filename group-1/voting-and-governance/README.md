@@ -1,2 +1,2 @@
-# Token Governance and Voting
+# Voting and Governance
 

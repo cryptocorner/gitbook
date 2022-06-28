@@ -1,2 +1,2 @@
-# Stake Project NFT's for $SCCG
+# Stake Project NFT's
 

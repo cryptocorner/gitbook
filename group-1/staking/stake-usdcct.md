@@ -1,2 +1,2 @@
-# Stake $CCT for $CCGT
+# Stake $CCT
 
