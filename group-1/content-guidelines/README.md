@@ -10,4 +10,4 @@
 | EDU Courses                 |                          75,000,000,000 | 25%  |
 | Total                       |                        300,000,000,000  | 100% |
 
-![](<../../.gitbook/assets/Picture1 (1).png>)
+![](<../../.gitbook/assets/Picture1 (1) (1).png>)
