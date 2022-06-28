@@ -1,2 +1,0 @@
-# Voting and Governance
-

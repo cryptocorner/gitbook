@@ -1,2 +1,0 @@
-# Stake Project NFT's
-
