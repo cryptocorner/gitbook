@@ -2,7 +2,7 @@
 
 
 
-| Tier | Pool Tier Allocation    | Total In Group | # Start | # End Link |  Payment in $CCT Per Link              |
+| Tier | Pool Tier Allocation    | Total In Group | # Start | # End Link |  Payment in $CCT                       |
 | ---- | ----------------------- | -------------- | ------- | ---------- | -------------------------------------- |
 | 1    |           3,750,000,000 | 20             | 1       | 20         |                          187,500,000   |
 | 2    |           3,750,000,000 | 30             | 21      | 50         |                          125,000,000   |
