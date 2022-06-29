@@ -16,6 +16,8 @@ Payments to be made manually upon acceptance of content on a first in first out 
 
 We will notify you on discord of all payments made.
 
+For all payment multipliers to be applied, this will be checked upon submitting payment to you. HOLD...selling before payment is received will not qualify for a multiplier being applied.
+
 
 
 
