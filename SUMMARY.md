@@ -30,7 +30,7 @@
 * [Content Guidelines](group-1/content-guidelines/README.md)
   * [Tool Box Links](group-1/content-guidelines/tool-box-links.md)
   * [Articles and Content for Publishing View](group-1/content-guidelines/articles-and-content-for-publishing-view.md)
-  * [EDU Marketplace Education Course](cryptocorner.finance-platform-assets-and-utilities/content-guidelines/edu-marketplace-education-course.md)
+  * [EDU Marketplace Education Course](group-1/content-guidelines/edu-marketplace-education-modules-and-quizzes.md)
 * [Content Voting Guidelines](group-1/content-voting-guidelines/README.md)
   * [Links](group-1/content-voting-guidelines/links.md)
   * [Publishing View Content](group-1/content-voting-guidelines/publishing-view-content.md)
