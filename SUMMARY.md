@@ -21,7 +21,7 @@
   * [Public Tool Box](cryptocorner.finance-platform-assets-and-utilities/platform-tools-and-resources/public-tool-box/README.md)
     * [Private Tool Box](cryptocorner.finance-platform-assets-and-utilities/platform-tools-and-resources/public-tool-box/private-tool-box.md)
   * [Private Publishing View](group-1/platform-tools-and-resources/private-publishing-view/README.md)
-    * [Tipping Token For Content](group-1/platform-tools-and-resources/private-publishing-view/tipping-token-for-content.md)
+    * [Content Tipping](cryptocorner.finance-platform-assets-and-utilities/platform-tools-and-resources/private-publishing-view/content-tipping.md)
   * [Education Marketplace](group-1/platform-tools-and-resources/education-marketplace.md)
 * [Content For Token](group-1/content-for-token/README.md)
   * [Links for the Tool Box](group-1/content-for-token/links-for-the-tool-box.md)
