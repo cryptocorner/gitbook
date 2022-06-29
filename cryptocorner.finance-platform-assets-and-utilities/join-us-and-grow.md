@@ -1,10 +1,12 @@
 # Join us and Grow!
 
-Twitter: https://twitter.com/MyCrypto\_Corner&#x20;
+[Website](http://www.cryptocorner.finance) . [Twitter](https://twitter.com/MyCrypto\_Corner) .  [Facebook](https://www.facebook.com/cryptocorner.finance) .  [Reddit](https://www.reddit.com/r/MyCrypto\_Corner/) . [Discord ](https://discord.gg/njq465KEHp)
 
-Facebook: https://www.facebook.com/cryptocorner.finance&#x20;
+{% file src="../.gitbook/assets/Crypto Corner Whitepaper.pdf" %}
 
-Reddit: https://www.reddit.com/r/MyCrypto\_Corner/&#x20;
+![](../.gitbook/assets/CryptoCornerBackground.jpg)
 
-Discord: https://discord.gg/njq465KEHp
+
+
+
 

@@ -1,4 +1,10 @@
-# Content for Token - Payment Tiers
+---
+description: >-
+  Community based growth for our users and content providers. Creating a unique
+  incentive system through multiple blockchain assets.
+---
+
+# Content for Token
 
 Initial Pool Allocations of $CCT for the Content Pool will be as follows:
 
