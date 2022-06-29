@@ -4,7 +4,7 @@ Our main underlying liquidity and payments to content providers for publishing a
 
 You will stake this token to produce the governance token for Binance Smart Chain $CCGT.
 
-Publishing View Content Tipping will be done with this token.
+Content Tipping will be completed with this token.
 
 Holding a certain amount given the time will provide access to Publishing View and EDU Marketplace along with any other hidden features we plan to provide in the future.
 
