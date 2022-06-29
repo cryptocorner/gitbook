@@ -39,6 +39,7 @@
   * [Submitting Links For Tool Box](group-1/payment-tiers/submitting-links-for-tool-box.md)
   * [Submitting Articles and Content for Private Publishing View](group-1/payment-tiers/submitting-articles-and-content-for-private-publishing-view.md)
   * [Submit Education Courses for EDU Marketplace](group-1/payment-tiers/submit-education-modules-and-quizzes-for-edu-marketplace.md)
+  * [Content Production Pool Replinishment through Revenue and Sales](cryptocorner.finance-platform-assets-and-utilities/content-for-token-payment-tiers/content-production-pool-replinishment-through-revenue-and-sales.md)
   * [Payment Multipliers](group-1/content-for-token/payment-multipliers.md)
 * [Token Governance and Voting](group-1/voting-and-governance/README.md)
   * [Binance Smart Chain Asset Governance](group-1/voting-and-governance/binance-smart-chain-asset-governance.md)
