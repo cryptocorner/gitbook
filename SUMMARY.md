@@ -29,7 +29,6 @@
   * [Submit Education Courses for EDU Marketplace](group-1/payment-tiers/submit-education-modules-and-quizzes-for-edu-marketplace.md)
   * [Content Production Pool Replinishment through Revenue and Sales](cryptocorner.finance-platform-assets-and-utilities/content-for-token-payment-tiers/content-production-pool-replinishment-through-revenue-and-sales.md)
   * [Payment Multipliers](group-1/content-for-token/payment-multipliers.md)
-* [Content For Token bad](group-1/content-for-token/README.md)
 * [Content Guidelines](group-1/content-guidelines/README.md)
   * [Tool Box Links](group-1/content-guidelines/tool-box-links.md)
   * [Articles and Content for Publishing View](group-1/content-guidelines/articles-and-content-for-publishing-view.md)
