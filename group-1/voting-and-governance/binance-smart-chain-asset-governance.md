@@ -8,16 +8,18 @@ Private Discord Access For Voting On:
 
 1. Protocol updates
 
-2\. Marketplace Royalty Updates
+2\. Marketplace Royalty Updates and Creator Splits
 
-3\. Transaction Tokenomics Updates
+3\. Transaction Tokenomics Updates for $CCT
 
 4\. Marketing and Developer Platform Updates
 
 5\. System Architecture Changes
 
-If SOL Governance token requests a change on BNB token, then will prompt BNB governance pool to be activated and make decission being proposed)
+If SOL Governance token requests a change on BNB token, then will prompt BNB governance pool to be activated and make decision being proposed) and vice versa.
 
-FFF Rafles using SOL Token
+Other benefits and uses:
+
+NFT and Token Raffles using $CCGT
 
 WL Giveaways and Raffles
