@@ -1,4 +1,4 @@
-# Stake Project NFT's for $SCCG
+# Stake SOL Project NFT's for $SCCG
 
 We will create a staking pool for Collection Project NFT's to generate $SCCG as a return.
 
