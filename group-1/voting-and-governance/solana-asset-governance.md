@@ -10,14 +10,12 @@ Private Discord Access For Voting On:
 
 2\. Royalty Updates
 
-3\. SOL integration and revenue share with BNB tokens
+3\. SOL integration and share with BNB tokens
 
 4\. Floor Sweep Rules
 
-If SOL Governance token requests a change on BNB token, then will prompt BNB governance pool to be activated and make decision being proposed) and vice versa.
+(If affects BNB tokens, then will prompt BNB governance pool to be activated and make decission being proposed)
 
-Other benefits and uses:
-
-FFF NFT Raffles using $SCCG
+FFF Rafles using SOL Token
 
 WL Giveaways and Raffles

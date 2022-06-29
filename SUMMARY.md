@@ -40,3 +40,4 @@
 * [Staking](group-1/staking/README.md)
   * [Stake $CCT for $CCGT](group-1/staking/stake-usdcct.md)
   * [Stake SOL Project NFT's for $SCCG](group-1/staking/stake-project-nfts.md)
+* [Join us and Grow!](cryptocorner.finance-platform-assets-and-utilities/join-us-and-grow.md)
