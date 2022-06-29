@@ -1,2 +1,21 @@
 # Binance Smart Chain Asset Governance
 
+If you are holding $CCGT, you will get access to a private discord channel for other holders that will give you the opportunity to vote on the following:
+
+Private Discord Access For Voting On:
+
+1. Protocol updates
+
+2\. Marketplace Royalty Updates
+
+3\. Transaction Tokenomics Updates
+
+4\. Marketing and Developer Platform Updates
+
+5\. System Architecture Changes
+
+If SOL Governance token requests a change on BNB token, then will prompt BNB governance pool to be activated and make decission being proposed)
+
+FFF Rafles using SOL Token
+
+WL Giveaways and Raffles
