@@ -1,5 +1,7 @@
 # Solana Asset Governance
 
+To receive $SCCG you will need to stake your SOL Collection Project NFT's. See more here: [stake-project-nfts.md](../staking/stake-project-nfts.md "mention")
+
 If you are holding $SCCG, you will get access to a private discord channel for other holders that will give you the opportunity to vote on the following:
 
 Private Discord Access For Voting On:
