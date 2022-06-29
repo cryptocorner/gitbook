@@ -31,7 +31,7 @@
   * [Tool Box Links](group-1/content-guidelines/tool-box-links.md)
   * [Articles and Content for Publishing View](group-1/content-guidelines/articles-and-content-for-publishing-view.md)
   * [EDU Marketplace Education Course](group-1/content-guidelines/edu-marketplace-education-modules-and-quizzes.md)
-* [Content Voting Guidelines](cryptocorner.finance-platform-assets-and-utilities/content-voting-guidelines.md)
+* [Content Voting Guidelines](group-1/content-voting-guidelines/README.md)
 * [Content for Token - Payment Tiers](group-1/payment-tiers/README.md)
   * [Submitting Links For Tool Box](group-1/payment-tiers/submitting-links-for-tool-box.md)
   * [Submitting Articles and Content for Private Publishing View](group-1/payment-tiers/submitting-articles-and-content-for-private-publishing-view.md)
