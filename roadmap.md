@@ -2,28 +2,28 @@
 
 Phase 1
 
-* [ ] Build architecture to integrate with multiple assets on multiple chains
-* [ ] Project White paper and Token Tokenomics/Royalties Set
+* [x] Build architecture to integrate with multiple assets on multiple chains
+* [x] Project White paper and Token Tokenomics/Royalties Set
 * [ ] Create $CCT on Binance Smart Chain
 * [ ] Initial Burn 35% Supply
 * [ ] Set Liquidity Pools on Pancakeswap.finance with 5 BNB and Lock LP for 1 year
 * [ ] Set Dev/Marketing Wallets and Content Pool initial allocations
-* [ ] Release Public Toolbox
+* [x] Release Public Toolbox
 * [ ] Release Publishing View
-* [ ] Set up discord, twitter, facebook, reddit and github
+* [x] Set up discord, twitter, facebook, reddit and github
 * [ ] Create Private Discord Channel For All Holders of Any Project Asset (Tokens and NFT's)
 * [ ] Create Discord Content Voting Channels
   * [ ] Links
   * [ ] Publishing View
   * [ ] EDU Marketplace
 * [ ] Create Discord Content for Token Payment Notification Channel
-* [ ] Create Content Voting Guidelines
+* [x] Create Content Voting Guidelines
 * [ ] Create BNB Governance Token $CCGT on Binance Smart Chain
 * [ ] Discord BNB $CCT Governance Voting Channel
-* [ ] Content for Token Payment Allocation Tiers Created
-  * [ ] Links&#x20;
-  * [ ] Publishing Content
-  * [ ] EDU Modules and Quizzes
+* [x] Content for Token Payment Allocation Tiers Created
+  * [x] Links&#x20;
+  * [x] Publishing Content
+  * [x] EDU Modules and Quizzes
 * [ ] Build a Content Management System for all content intake and process workflow improvements for posting to Publishing View
 
 Phase 2
