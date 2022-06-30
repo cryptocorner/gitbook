@@ -1,3 +1,9 @@
 # Platform Tools and Resources
 
-We have&#x20;
+We have 3 main platform tools.
+
+Tool Box
+
+Publishing View
+
+EDU Marketplace
