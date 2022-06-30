@@ -12,10 +12,10 @@ Phase 1
 * [ ] Release Publishing View
 * [x] Set up discord, twitter, facebook, reddit and github
 * [ ] Create Private Discord Channel For All Holders of Any Project Asset (Tokens and NFT's)
-* [ ] Create Discord Content Voting Channels
-  * [ ] Links
-  * [ ] Publishing View
-  * [ ] EDU Marketplace
+* [x] Create Discord Content Voting Channels
+  * [x] Links
+  * [x] Publishing View
+  * [x] EDU Marketplace
 * [ ] Create Discord Content for Token Payment Notification Channel
 * [x] Create Content Voting Guidelines
 * [ ] Create BNB Governance Token $CCGT on Binance Smart Chain
@@ -25,6 +25,7 @@ Phase 1
   * [x] Publishing Content
   * [x] EDU Modules and Quizzes
 * [ ] Build a Content Management System for all content intake and process workflow improvements for posting to Publishing View
+* [ ] Discord 2FA set up
 
 Phase 2
 
