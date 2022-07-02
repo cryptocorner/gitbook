@@ -8,6 +8,6 @@ Basically an easy to use website with an organized set of links related to web3.
 
 Submitting links to the toolbox will get you [payment-tiers](../../../group-1/payment-tiers/ "mention")!
 
-To be able to submit links to the Public Tool Box and become a verified creator for Content for Token, you will need to hold at minimum 1 Collection Project NFT.
+To be able to submit links to the Public Tool Box and become a verified creator for Content for Token, you will need to hold at minimum 3 Collection Project NFT.
 
-![](../../../.gitbook/assets/4554Picture1.png)
+![](../../../.gitbook/assets/Pictur3322e1.png)
