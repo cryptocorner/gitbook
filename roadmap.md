@@ -16,15 +16,15 @@ Phase 1
   * [x] Links
   * [x] Publishing View
   * [x] EDU Marketplace
-* [ ] Create Discord Content for Token Payment Notification Channel
+* [x] Create Discord Content for Token Payment Notification Channel
 * [x] Create Content Voting Guidelines
 * [ ] Create BNB Governance Token $CCGT on Binance Smart Chain
-* [ ] Discord BNB $CCT Governance Voting Channel
+* [x] Discord BNB $CCT Governance Voting Channel
 * [x] Content for Token Payment Allocation Tiers Created
   * [x] Links&#x20;
   * [x] Publishing Content
   * [x] EDU Modules and Quizzes
-* [ ] Build a Content Management System for all content intake and process workflow improvements for posting to Publishing View
+* [x] Build a Content Management System for all content intake and process workflow improvements for posting to Publishing View
 * [ ] Discord 2FA set up
 
 Phase 2
