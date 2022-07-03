@@ -1,5 +1,7 @@
 # Governance Token - BSC Token - $CCGT
 
+![](<../../.gitbook/assets/Crypto Corner Governance Token $CCGT.png>)
+
 Binance Smart Chain Governance Token $CCGT will be awarded to those who stake their $CCT as a reward.&#x20;
 
 This token can be used for content voting, raffles, and voting on tokenomics.&#x20;

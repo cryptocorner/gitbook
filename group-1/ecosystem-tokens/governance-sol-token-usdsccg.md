@@ -1,5 +1,7 @@
 # Governance SOL Token - $SCCG
 
+![](<../../.gitbook/assets/Crypto Corner Solana Governance Token.png>)
+
 Solana Governance Token $SCCG will be awarded to those who stake their SOL Project NFT as a reward.&#x20;
 
 This token can be used for content voting, raffles, and voting on royalty updates.

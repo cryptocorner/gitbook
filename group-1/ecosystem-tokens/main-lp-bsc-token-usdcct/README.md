@@ -1,5 +1,7 @@
 # Main LP - BSC Token - $CCT
 
+![](<../../../.gitbook/assets/Crypto Corner Logo1.png>)
+
 Our main underlying liquidity and payments to content providers for publishing and EDU marketplace purchases.
 
 You will stake this token to produce the governance token for Binance Smart Chain $CCGT.
