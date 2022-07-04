@@ -1,3 +1,3 @@
 # Ecosystem Tokens
 
-![](<../../.gitbook/assets/Our Network Tokens.jpg>)
+![](<../../.gitbook/assets/Our Network Tokens.png>)
