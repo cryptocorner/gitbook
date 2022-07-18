@@ -4,10 +4,10 @@ Phase 1
 
 * [x] Build architecture to integrate with multiple assets on multiple chains
 * [x] Project White paper and Token Tokenomics/Royalties Set
-* [ ] Create $CCT on Binance Smart Chain
-* [ ] Initial Burn 35% Supply
+* [x] Create $CCT on Binance Smart Chain
+* [x] Initial Burn 35% Supply
 * [ ] Set Liquidity Pools on Pancakeswap.finance with 5 BNB and Lock LP for 1 year
-* [ ] Set Dev/Marketing Wallets and Content Pool initial allocations
+* [x] Set Dev/Marketing Wallets and Content Pool initial allocations
 * [x] Release Public Toolbox
 * [ ] Release Publishing View
 * [x] Set up discord, twitter, facebook, reddit and github
