@@ -6,7 +6,7 @@ Phase 1
 * [x] Project White paper and Token Tokenomics/Royalties Set
 * [x] Create $CCT on Binance Smart Chain
 * [x] Initial Burn 35% Supply
-* [ ] Set Liquidity Pools on Pancakeswap.finance with 5 BNB and Lock LP for 1 year
+* [x] Set Liquidity Pools on Pancakeswap.finance with 5 BNB and Lock LP for 1 year
 * [x] Set Dev/Marketing Wallets and Content Pool initial allocations
 * [x] Release Public Toolbox
 * [ ] Release Publishing View
@@ -18,14 +18,14 @@ Phase 1
   * [x] EDU Marketplace
 * [x] Create Discord Content for Token Payment Notification Channel
 * [x] Create Content Voting Guidelines
-* [ ] Create BNB Governance Token $CCGT on Binance Smart Chain
+* [x] Create BNB Governance Token $CCGT on Binance Smart Chain
 * [x] Discord BNB $CCT Governance Voting Channel
 * [x] Content for Token Payment Allocation Tiers Created
   * [x] Links&#x20;
   * [x] Publishing Content
   * [x] EDU Modules and Quizzes
 * [x] Build a Content Management System for all content intake and process workflow improvements for posting to Publishing View
-* [ ] Discord 2FA set up
+* [x] Discord 2FA set up
 
 Phase 2
 
