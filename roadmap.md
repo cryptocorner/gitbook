@@ -21,24 +21,43 @@ Phase 1
 * [x] Create BNB Governance Token $CCGT on Binance Smart Chain
 * [x] Discord BNB $CCT Governance Voting Channel
 * [x] Content for Token Payment Allocation Tiers Created
-  * [x] Links&#x20;
+  * [x] Links For Tool Box
+  * [x] Crypto Dictionary
   * [x] Publishing Content
-  * [x] EDU Modules and Quizzes
+  * [x] Education Modules and Quizzes
+  * [x] Full Class Development and Education Courses
+  * [x] Content Language Conversion
+  * [x] Content Review and Voting
+  * [x] Content Distribution Management
+  * [x] Creator Referrals
+  * [x] Reserves for Future Content Channels
 * [x] Build a Content Management System for all content intake and process workflow improvements for posting to Publishing View
+* [x] Build a Tool Box Link Management System&#x20;
 * [x] Discord 2FA set up
+* [x] Team Buildout
+  * [x] Community Moderators
+  * [x] Social Media Managers
+  * [x] Developers
 
 Phase 2
 
-* [ ] Team Buildout
-  * [ ] Community Moderators
-  * [ ] Social Media Managers
-  * [ ] Developers
+* [ ] Announce Release Date for The Crypto Corners NFT
+* [ ] Solana NFT Story Board + Full Utility Announced
+* [ ] Solana NFT WL Release&#x20;
+* [ ] Release 1st Solana NFT PFP Project - The Crypto Corners
+* [ ] Integrate The Crypto Corners NFT Holder Review in Discord
+* [ ] Activate Content For Token Payments
+* [ ] Activate Content Voting Channels
+* [ ] Team Buildout +&#x20;
+  * [ ] Add Community Moderators
+  * [ ] Add Social Media Managers
   * [ ] Add More Vendor Connections
   * [ ] Attract More Content Developers
-* [ ] Create SOL Governance Token $SCCG
-* [ ] Staking Set up for SOL Project NFT's for $SCCG
+* [ ] Add Active Job Boards to Discord
+* [ ] Create SOL SPL Token $CORN
+* [ ] Staking Set up for SOL Project NFT's for $CORN
 * [ ] Discord SOL Governance Voting Channel
-* [ ] Discord and Twitter Sales Bots
+* [ ] Discord and Twitter NFT Sales Bots
 * [ ] Release EDU Marketplace Beta
 * [ ] Community NFT and WL Raffles&#x20;
 * [ ] Community Partnerships
@@ -61,7 +80,7 @@ Phase 4
 * [ ] Develop Profile Pages showing Experience Achievement NFT's through EDU Marketplace along with Project NFT's For Content Providers and All Holders
 * [ ] Develop Ranking System and Better Search UI for Publishing View and Content Providers&#x20;
 * [ ] Add other chain NFT launches including ETH, NEAR + and more.
-* [ ] Develop an automated community voting/payment system for content for token&#x20;
+* [ ] Integrate automated community voting/payment system for content for token&#x20;
 
 More + More + More + follow us to stay updated
 
