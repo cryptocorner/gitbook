@@ -32,4 +32,4 @@ $CCT employs 3 transactional functions:
 
 Upon trading, set 6% “Slippage” set in the gear icon on pancakeswap trade view.
 
-![](../../../.gitbook/assets/Picture1.png)
+![](<../../../.gitbook/assets/Picture1 (3).png>)

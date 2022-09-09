@@ -8,10 +8,8 @@ description: >-
 
 Initial Pool Allocations of $CCT for the Content Pool will be as follows:
 
-![](../../.gitbook/assets/P8254icture1.png)
+<figure><img src="../../.gitbook/assets/Picture1 (1).png" alt=""><figcaption></figcaption></figure>
 
-The payment tiers for each respective category are as follows:
+Here are the pool allocation amounts:
 
-![](../../.gitbook/assets/P777icture1.png)
-
-![](../../.gitbook/assets/Pictur36543e1.png)
+<figure><img src="../../.gitbook/assets/Picture1.png1.png" alt=""><figcaption></figcaption></figure>

@@ -18,4 +18,4 @@ Marketing Wallet: 50,000,000,000
 
 Development Wallet: 50,000,000,000
 
-![](<../../../.gitbook/assets/Picture1 (1).png>)
+![](<../../../.gitbook/assets/Picture1 (1) (1).png>)

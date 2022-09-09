@@ -8,8 +8,10 @@ Phase 1
 * [x] Initial Burn 35% Supply
 * [x] Set Liquidity Pools on Pancakeswap.finance with 5 BNB and Lock LP for 1 year
 * [x] Set Dev/Marketing Wallets and Content Pool initial allocations
-* [x] Release Public Toolbox
-* [ ] Release Publishing View
+* [x] Release Public Toolbox - Think "yahoo home page" for crypto
+* [ ] Release Crypto Dictionary - Think "wikipedia" for crypto
+* [ ] Release Publishing View - Think "Newspaper" for crypto&#x20;
+* [ ] Release Designs and Workflows for Education Course Marketplace and Public Profiles showing user and creator experience with their NFT's
 * [x] Set up discord, twitter, facebook, reddit and github
 * [ ] Create Private Discord Channel For All Holders of Any Project Asset (Tokens and NFT's)
 * [x] Create Discord Content Voting Channels
