@@ -43,11 +43,12 @@ Phase 1
   * [x] Developers
 * [x] IRL Education Events&#x20;
 * [ ] Add Active Job Boards to Discord
+* [ ] Announce Creator + Content Referral Program
 
 Phase 2
 
 * [ ] Announce Release Date for The Crypto Corners NFT
-* [ ] Solana NFT Story Board + Full Utility Announced
+* [ ] Solana NFT Story Board + Full Utility Announced + Future Release Plan
 * [ ] Solana NFT WL Release&#x20;
 * [ ] Release 1st Solana NFT PFP Project - The Crypto Corners
 * [ ] Integrate The Crypto Corners NFT Holder Review in Discord
@@ -62,8 +63,10 @@ Phase 2
   * [ ] Attract More Content Developers
 * [ ] Create SOL SPL Token $CORN
 * [ ] Staking Set up for SOL Project NFT's for $CORN
-* [ ] Discord SOL Governance Voting Channel
+* [ ] Discord SOL NFT/$CORN Governance Voting Channel
+* [ ] Discord BSC NFT/$CCT Governance Voting Channel
 * [ ] Discord and Twitter NFT Sales Bots
+* [ ] Discord and Twitter BSC Sales Bots
 * [ ] Release EDU Marketplace Beta
 * [ ] Community NFT and WL Raffles and Giveaways
 * [ ] Community Partnerships
