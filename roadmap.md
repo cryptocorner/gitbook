@@ -61,9 +61,10 @@ Phase 2
   * [ ] Add Social Media Managers
   * [ ] Add More Vendor Connections
   * [ ] Attract More Content Developers
-* [ ] Create SOL SPL Token $CORN
+* [ ] Create SOL SPL Token $CORN - Announcement Coming Soon
+* [ ] Create SOL SPL Token $SCCG - Solana Governance Token
 * [ ] Staking Set up for SOL Project NFT's for $CORN
-* [ ] Discord SOL NFT/$CORN Governance Voting Channel
+* [ ] Discord SOL NFT/$SCCG Governance Voting Channel
 * [ ] Discord BSC NFT/$CCT Governance Voting Channel
 * [ ] Discord and Twitter NFT Sales Bots
 * [ ] Discord and Twitter BSC Sales Bots
