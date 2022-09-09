@@ -4,15 +4,16 @@ Phase 1
 
 * [x] Build architecture to integrate with multiple assets on multiple chains
 * [x] Project White paper and Token Tokenomics/Royalties Set
-* [x] Create $CCT on Binance Smart Chain
+* [x] Create Crypto Corner Token - $CCT on Binance Smart Chain
 * [x] Initial Burn 35% Supply
 * [x] Set Liquidity Pools on Pancakeswap.finance with 5 BNB and Lock LP for 1 year
 * [x] Set Dev/Marketing Wallets and Content Pool initial allocations
-* [x] Release Public Toolbox - Think "yahoo home page" for crypto
-* [ ] Release Crypto Dictionary - Think "wikipedia" for crypto
+* [x] Release Public Toolbox - Think "Yahoo home page" for crypto
+* [ ] Release Crypto Dictionary - Think "Wikipedia" for crypto
 * [ ] Release Publishing View - Think "Newspaper" for crypto&#x20;
-* [ ] Release Designs and Workflows for Education Course Marketplace and Public Profiles showing user and creator experience with their NFT's
-* [x] Set up discord, twitter, facebook, reddit and github
+* [ ] Release Designs and Workflows for Education Course Marketplace and Public Profiles showing user and creator experience with their NFT's - Think "College Courses Mixed With Linkedin Profiles"
+* [ ] Announcements and Release of the Teachers Teaching Teachers Package - Think about growth and reach of knowledge/education we provide
+* [x] Set up discord, twitter, facebook, reddit, gitbook and github
 * [ ] Create Private Discord Channel For All Holders of Any Project Asset (Tokens and NFT's)
 * [x] Create Discord Content Voting Channels
   * [x] Links
@@ -38,8 +39,10 @@ Phase 1
 * [x] Discord 2FA set up
 * [x] Team Buildout
   * [x] Community Moderators
-  * [x] Social Media Managers
+  * [ ] Social Media Managers
   * [x] Developers
+* [x] IRL Education Events&#x20;
+* [ ] Add Active Job Boards to Discord
 
 Phase 2
 
@@ -50,18 +53,19 @@ Phase 2
 * [ ] Integrate The Crypto Corners NFT Holder Review in Discord
 * [ ] Activate Content For Token Payments
 * [ ] Activate Content Voting Channels
+* [ ] Release Alpha Access to 1st Teach the Teachers Package
+* [ ] Release Beta Access to EDU Marketplace and initial courses
 * [ ] Team Buildout +&#x20;
   * [ ] Add Community Moderators
   * [ ] Add Social Media Managers
   * [ ] Add More Vendor Connections
   * [ ] Attract More Content Developers
-* [ ] Add Active Job Boards to Discord
 * [ ] Create SOL SPL Token $CORN
 * [ ] Staking Set up for SOL Project NFT's for $CORN
 * [ ] Discord SOL Governance Voting Channel
 * [ ] Discord and Twitter NFT Sales Bots
 * [ ] Release EDU Marketplace Beta
-* [ ] Community NFT and WL Raffles&#x20;
+* [ ] Community NFT and WL Raffles and Giveaways
 * [ ] Community Partnerships
 * [ ] Staking Set up for $CCGT using $CCT
 
@@ -76,12 +80,10 @@ Phase 3
 
 Phase 4
 
-* [ ] IRL Education Events&#x20;
-* [ ] Tool User Interface Updates and Re-Organization
-* [ ] Google Bookmarks Download using Public Toolbox already organized
-* [ ] Develop Profile Pages showing Experience Achievement NFT's through EDU Marketplace along with Project NFT's For Content Providers and All Holders
+* [ ] Tool User Interface Updates and Further Organization for improved user experience
+* [ ] Bookmarks Download using Public Toolbox already organized
+* [ ] Further Develop and Implement Profile Pages showing Experience Achievement NFT's through EDU Marketplace along with Project NFT's For Content Providers and All Holders
 * [ ] Develop Ranking System and Better Search UI for Publishing View and Content Providers&#x20;
-* [ ] Add other chain NFT launches including ETH, NEAR + and more.
 * [ ] Integrate automated community voting/payment system for content for token&#x20;
 
 More + More + More + follow us to stay updated
