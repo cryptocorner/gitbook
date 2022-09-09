@@ -6,6 +6,7 @@
 ## CryptoCorner.Finance Platform Assets and Utilities
 
 * [Ecosystem Tokens](group-1/ecosystem-tokens/README.md)
+  * [SOL - $CORN - Coming Soon](cryptocorner.finance-platform-assets-and-utilities/ecosystem-tokens/sol-usdcorn-coming-soon.md)
   * [Main LP - BSC Token - $CCT](group-1/ecosystem-tokens/main-lp-bsc-token-usdcct/README.md)
     * [$CCT - Transaction Tokenomics](group-1/ecosystem-tokens/main-lp-bsc-token-usdcct/transaction-tokenomics.md)
     * [$CCT - Initial Supply Allocations](group-1/ecosystem-tokens/main-lp-bsc-token-usdcct/initial-supply-allocations.md)
