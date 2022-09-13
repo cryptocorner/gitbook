@@ -12,6 +12,4 @@ The remaining 94% will be provided to content provider who made it. The content 
 
 Upon education material being voted and approved for the EDU Marketplace, payments for tiers will be as follows:
 
-![](../../.gitbook/assets/999Picture1.png)
-
-![](../../.gitbook/assets/99Picture1.png)
+<figure><img src="../../.gitbook/assets/Picture11 (1).png" alt=""><figcaption></figcaption></figure>
