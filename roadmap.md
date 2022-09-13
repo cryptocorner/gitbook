@@ -20,6 +20,7 @@ Phase 1
   * [x] Publishing View
   * [x] EDU Marketplace
 * [x] Create Discord Content for Token Payment Notification Channel
+* [x] Youtube Channel Created - [https://www.youtube.com/channel/UC27GUJV-3ra6gq900N7--3A](https://www.youtube.com/channel/UC27GUJV-3ra6gq900N7--3A)
 * [x] Create Content Voting Guidelines
 * [x] Create BNB Governance Token $CCGT on Binance Smart Chain
 * [x] Discord BNB $CCT Governance Voting Channel
