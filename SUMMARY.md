@@ -47,3 +47,5 @@
   * [Stake $CCT for $CCGT](group-1/staking/stake-usdcct.md)
   * [Stake SOL Project NFT's for $SCCG](group-1/staking/stake-project-nfts.md)
 * [Join us and Grow!](cryptocorner.finance-platform-assets-and-utilities/join-us-and-grow.md)
+* [Wallet Set Up](cryptocorner.finance-platform-assets-and-utilities/wallet-set-up/README.md)
+  * [Set up Metamask with Binance Smart Chain Network](cryptocorner.finance-platform-assets-and-utilities/wallet-set-up/set-up-metamask-with-binance-smart-chain-network.md)
