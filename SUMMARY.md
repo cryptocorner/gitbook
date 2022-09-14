@@ -49,3 +49,4 @@
 * [Join us and Grow!](cryptocorner.finance-platform-assets-and-utilities/join-us-and-grow.md)
 * [Wallet Set Up](cryptocorner.finance-platform-assets-and-utilities/wallet-set-up/README.md)
   * [Set up Metamask with Binance Smart Chain Network](cryptocorner.finance-platform-assets-and-utilities/wallet-set-up/set-up-metamask-with-binance-smart-chain-network.md)
+  * [Set Up Phantom Wallet](cryptocorner.finance-platform-assets-and-utilities/wallet-set-up/set-up-phantom-wallet.md)
