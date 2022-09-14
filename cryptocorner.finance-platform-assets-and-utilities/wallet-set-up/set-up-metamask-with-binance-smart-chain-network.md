@@ -1,6 +1,6 @@
 # Set up Metamask with Binance Smart Chain Network
 
-[Website](http://www.cryptocorner.finance) . [Twitter](https://twitter.com/MyCrypto\_Corner) .  [Facebook](https://www.facebook.com/cryptocorner.finance) .  [Reddit](https://www.reddit.com/r/MyCrypto\_Corner/) . [Discord ](https://discord.gg/njq465KEHp)
+[**IRL Class Airdrop Form**](https://docs.google.com/forms/d/e/1FAIpQLSfUkteAAB0QbbOObw6CN9ug7twfn2JtA36ebE-B3l7iGQXTmA/viewform?usp=sf\_link)****
 
 Watch this video to set up Metamask on your Cell Phone or your Desktop Browser:
 
