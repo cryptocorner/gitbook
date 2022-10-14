@@ -9,7 +9,7 @@ Phase 1
 * [x] Set Liquidity Pools on Pancakeswap.finance with 5 BNB and Lock LP for 1 year
 * [x] Set Dev/Marketing Wallets and Content Pool initial allocations
 * [x] Release Public Toolbox - Think "Yahoo home page" for crypto
-* [ ] Release Crypto Dictionary - Think "Wikipedia" for crypto
+* [x] Release Crypto Dictionary - Think "Wikipedia" for crypto
 * [ ] Release Publishing View - Think "Newspaper" for crypto&#x20;
 * [ ] Release Designs and Workflows for Education Course Marketplace and Public Profiles showing user and creator experience with their NFT's - Think "College Courses Mixed With Linkedin Profiles"
 * [ ] Announcements and Release of the Teachers Teaching Teachers Package - Think about growth and reach of knowledge/education we provide
@@ -41,10 +41,10 @@ Phase 1
 * [x] Team Buildout
   * [x] Community Moderators
   * [ ] Social Media Managers
-  * [x] Developers
+  * [ ] Developers
 * [x] IRL Education Events&#x20;
 * [ ] Add Active Job Boards to Discord
-* [ ] Announce Creator + Content Referral Program
+* [x] Announce Creator + Content Referral Program
 
 Phase 2
 

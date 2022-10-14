@@ -4,8 +4,8 @@ The EDU Marketplace will be where you can purchase and take education courses to
 
 All sales in our EDU Marketplace will use $CCT for payment.
 
-Submitting links to the toolbox will get you [payment-tiers](../payment-tiers/ "mention")!
+Submitting links to the toolbox will get you [payment-tiers](../../../group-1/payment-tiers/ "mention")!
 
 To be able to submit education courses for sale on our EDU Marketplace and become a verified EDU Content Provider for Content for Token, you will need to hold at minimum 20 Collection Project NFTs.
 
-![](../../.gitbook/assets/33Picture1.png)
+![](../../../.gitbook/assets/33Picture1.png)
